@@ -7,7 +7,7 @@
 1. Open your terminal and navigate to your Actualize folder.
 
 2. Clone this repository in your Actualize folder.  
-   `git clone https://github.com/actualize-chi-2021-11/independent-practice.git`
+   `git clone https://github.com/actualize-day-2022-06/independent-practice.git`
 
 3. Navigate your terminal to this new folder.
    `cd independent-practice/`
@@ -40,10 +40,10 @@ Pull down the new exercises into your repository.
 
 ### Week 1
 
-|       | Review practice ([readme](introduction-review-practice.md)) | Deep dives ([readme](introduction-deep-dives.md)) |
+|       | Review practice  | Deep dives  |
 | ----- | ----------------------------------------------------------- | ------------------------------------------------- |
 | Day 1 | [Terminal](w01/terminal)                                    | [Making the grade](w01/01_grades)                 |
 | Day 2 | [Git and GitHub](w01/git_and_github)                        | [Bob](w01/02_bob)                                 |
 | Day 3 | [Ruby Core](w01/ruby_core)                                  | [ISBN Validator](w01/03_isbn)                     |
 | Day 4 | [Ruby OOP](w01/ruby_oop)                                    | [Todo App](w01/04_todo)                           |
-| Day 5 | [Ruby Methods](w01/ruby_methods)                            | [Budget Calculator](w01/05_budget)                |# independent-practice
+| Day 5 | [Ruby Methods](w01/ruby_methods)                            | [Budget Calculator](w01/05_budget)                |
