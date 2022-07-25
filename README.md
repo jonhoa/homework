@@ -47,3 +47,14 @@ Pull down the new exercises into your repository.
 | Day 3 | [Ruby Core](w01/ruby_core)                                  | [ISBN Validator](w01/03_isbn)                     |
 | Day 4 | [Ruby OOP](w01/ruby_oop)                                    | [Todo App](w01/04_todo)                           |
 | Day 5 | [Ruby Methods](w01/ruby_methods)                            | [Budget Calculator](w01/05_budget)                |
+
+
+### Week 2
+
+|       | Review practice  | Deep dives  |
+| ----- | ----------------------------------------------------------- | ------------------------------------------------- |
+| Day 1 | [Intro to APIs](w02/intro_to_apis)                                    | [Book Report](w02/06_book_report)                 |
+| Day 2 | [Babys first rails](w02/babys_first_rails)                        | [ETL](w02/07_etl)                                 |
+| Day 3 | [Be CRUDdy](w02/be_cruddy)                                  | [Anagrams](w02/08_anagrams)                     |
+| Day 4 | [More CRUD](w02/more_crud)                                    | [Hash as Index](w02/09_hash_as_index)                           |
+| Day 5 | [Params](w02/params)                            | [Temperatures](w02/10_temperatures)                |
