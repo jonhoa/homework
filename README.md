@@ -57,3 +57,14 @@ Pull down the new exercises into your repository.
 | Day 3 | [Ruby Core](w02/be_cruddy)                                  | [Anagrams](w02/08_anagrams)                     |
 | Day 4 | [Ruby OOP](w02/more_crud)                                    | [Todo App](w02/09_hash_as_index)                           |
 | Day 5 | [Ruby Methods](w02/params)                            | [Budget Calculator](w02/10_temperatures)                |
+
+
+
+### Week 3
+
+|       | Review practice  | Deep dives  |
+| ----- | ----------------------------------------------------------- | ------------------------------------------------- |
+| Day 1 | [RESTful APIs](w03/restful_apis)                                    | [Book Report](w03/11_phonebook)                 |
+| Day 2 | [Ruby Methods 2](w03/ruby_methods_2)                        | [ETL](w03/12_playlist)                                 |
+| Day 3 | [Migrations](w03/migrations)                                  | [Anagrams](w03/13_nobel_prize_winners)                     |
+| Day 4 | [Validations](w03/validations)                                    | [Hash as Index](w03/14_randomizer_gem)                           |
