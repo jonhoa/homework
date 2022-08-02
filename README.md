@@ -48,6 +48,7 @@ Pull down the new exercises into your repository.
 | Day 4 | [Ruby OOP](w01/ruby_oop)                                    | [Todo App](w01/04_todo)                           |
 | Day 5 | [Ruby Methods](w01/ruby_methods)                            | [Budget Calculator](w01/05_budget)                |
 
+
 ### Week 2
 
 |       | Review practice  | Deep dives  |
@@ -68,3 +69,7 @@ Pull down the new exercises into your repository.
 | Day 2 | [Ruby Methods 2](w03/ruby_methods_2)                        | [ETL](w03/12_playlist)                                 |
 | Day 3 | [Migrations](w03/migrations)                                  | [Anagrams](w03/13_nobel_prize_winners)                     |
 | Day 4 | [Validations](w03/validations)                                    | [Hash as Index](w03/14_randomizer_gem)                           |
+| Day 2 | [Babys first rails](w02/babys_first_rails)                        | [ETL](w02/07_etl)                                 |
+| Day 3 | [Be CRUDdy](w02/be_cruddy)                                  | [Anagrams](w02/08_anagrams)                     |
+| Day 4 | [More CRUD](w02/more_crud)                                    | [Hash as Index](w02/09_hash_as_index)                           |
+| Day 5 | [Params](w02/params)                            | [Temperatures](w02/10_temperatures)                |
