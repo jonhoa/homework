@@ -69,7 +69,17 @@ Pull down the new exercises into your repository.
 | Day 2 | [Ruby Methods 2](w03/ruby_methods_2)                        | [ETL](w03/12_playlist)                                 |
 | Day 3 | [Migrations](w03/migrations)                                  | [Anagrams](w03/13_nobel_prize_winners)                     |
 | Day 4 | [Validations](w03/validations)                                    | [Hash as Index](w03/14_randomizer_gem)                           |
-| Day 2 | [Babys first rails](w02/babys_first_rails)                        | [ETL](w02/07_etl)                                 |
-| Day 3 | [Be CRUDdy](w02/be_cruddy)                                  | [Anagrams](w02/08_anagrams)                     |
-| Day 4 | [More CRUD](w02/more_crud)                                    | [Hash as Index](w02/09_hash_as_index)                           |
-| Day 5 | [Params](w02/params)                            | [Temperatures](w02/10_temperatures)                |
+
+
+
+### Week 4
+
+|       | Review practice  | Deep dives  |
+| ----- | ----------------------------------------------------------- | ------------------------------------------------- |
+| Day 1 | [Has Many](w04/has_many)                                    | [Lights Out](w04/15_lights_out)                 |
+| Day 2 | [Authentication](w04/authentication)                        | [Tic Tac Toe](w04/16_tic_tac_toe)                                 |
+| Day 3 | [Authorization](w04/authorization)                                  | [Quicknotes](w04/17_quicknotes)                     |
+| Day 4 | [Ruby Methods 3](w04/ruby_methods_3)                                    | [Firebase](w04/18 Firebase)                           |
+| Day 5 | [Has Many Through](w04/has_many_through)                  
+
+
