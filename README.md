@@ -83,3 +83,36 @@ Pull down the new exercises into your repository.
 | Day 5 | [Has Many Through](w04/has_many_through)                  
 
 
+
+### Week 5
+
+|       | Review practice  | Deep dives  |
+| ----- | ----------------------------------------------------------- | ------------------------------------------------- |
+| Day 1 | [Intro to JS](w05/intro_to_js)                                    | [Take Home 1](w05/19_takehome_1)                 |
+| Day 2 | [Intro to JS 2](w05/intro_to_js_2)                        |                                  |
+| Day 3 | [Intro to Vue](w05/intro_to_vue)                                  |                     |
+| Day 4 | [More JavaScript](w05/more_javascript)                                    |                           |
+
+
+
+### Week 6
+
+|       | Review practice  | Deep dives  |
+| ----- | ----------------------------------------------------------- | ------------------------------------------------- |
+| Day 1 | [Vue CRUD](w06/vue_crud)                                    | [Take Home 2](w06/20_takehome_2)                 |
+| Day 2 | [Vue CRUD 2](w06/vue_crud_2)                        |                                  |
+| Day 3 | [Vue Routes](w06/vue_routes)                                  |                     |
+| Day 4 | [Heroku Deployment](w06/heroku_deployment)                                     |                           |
+
+
+### Week 7
+
+|       | Review practice  | Deep dives  |
+| ----- | ----------------------------------------------------------- | ------------------------------------------------- |
+| Day 1 | [Vue Authentication](w07/vue_authentication)                                    | [Take Home 3](w07/21_takehome_3)                 |
+| Day 2 | [Vue Extras](w07/vue_extras)                        |                                  |
+| Day 3 | [Vue Review](w07/vue_review)                                  |                     |
+| Day 4 | [HTML Themes](w07/html_themes)                                     |                           |
+
+
+
