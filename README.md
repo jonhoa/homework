@@ -54,10 +54,10 @@ Pull down the new exercises into your repository.
 |       | Review practice  | Deep dives  |
 | ----- | ----------------------------------------------------------- | ------------------------------------------------- |
 | Day 1 | [Intro to APIs](w02/intro_to_apis)                                    | [Book Report](w02/06_book_report)                 |
-| Day 2 | [Git and GitHub](w02/babys_first_rails)                        | [ETL](w02/07_etl)                                 |
-| Day 3 | [Ruby Core](w02/be_cruddy)                                  | [Anagrams](w02/08_anagrams)                     |
-| Day 4 | [Ruby OOP](w02/more_crud)                                    | [Todo App](w02/09_hash_as_index)                           |
-| Day 5 | [Ruby Methods](w02/params)                            | [Budget Calculator](w02/10_temperatures)                |
+| Day 2 | [Baby's first rails](w02/babys_first_rails)                        | [ETL](w02/07_etl)                                 |
+| Day 3 | [Be cruddy](w02/be_cruddy)                                  | [Anagrams](w02/08_anagrams)                     |
+| Day 4 | [More CRUD](w02/more_crud)                                    | [Todo App](w02/09_hash_as_index)                           |
+| Day 5 | [Params](w02/params)                            | [Budget Calculator](w02/10_temperatures)                |
 
 
 
